@@ -1843,7 +1843,7 @@ dependencies = [
 [[package]]
 name = "serenity"
 version = "0.11.4"
-source = "git+https://github.com/GnomedDev/serenity?branch=personal#5652a37eca63eb25d16dc797ea596b47ff4ee2dd"
+source = "git+https://github.com/GnomedDev/serenity?branch=personal#21d65fd83d2372ad3a1e4d37b48d07f8377309fe"
 dependencies = [
  "async-trait",
  "base64",
@@ -1875,7 +1875,7 @@ dependencies = [
 [[package]]
 name = "serenity-voice-model"
 version = "0.1.1"
-source = "git+https://github.com/GnomedDev/serenity?branch=personal#5652a37eca63eb25d16dc797ea596b47ff4ee2dd"
+source = "git+https://github.com/GnomedDev/serenity?branch=personal#21d65fd83d2372ad3a1e4d37b48d07f8377309fe"
 dependencies = [
  "bitflags",
  "enum_primitive",
